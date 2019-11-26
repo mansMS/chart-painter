@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chart-painter/static/css/main.967a75b9.chunk.css",
+    "main.js": "/chart-painter/static/js/main.bcb55828.chunk.js",
+    "main.js.map": "/chart-painter/static/js/main.bcb55828.chunk.js.map",
+    "runtime-main.js": "/chart-painter/static/js/runtime-main.a8de3a73.js",
+    "runtime-main.js.map": "/chart-painter/static/js/runtime-main.a8de3a73.js.map",
+    "static/js/2.119331d9.chunk.js": "/chart-painter/static/js/2.119331d9.chunk.js",
+    "static/js/2.119331d9.chunk.js.map": "/chart-painter/static/js/2.119331d9.chunk.js.map",
+    "index.html": "/chart-painter/index.html",
+    "precache-manifest.68655cee496c27845966be445229d8bf.js": "/chart-painter/precache-manifest.68655cee496c27845966be445229d8bf.js",
+    "service-worker.js": "/chart-painter/service-worker.js",
+    "static/css/main.967a75b9.chunk.css.map": "/chart-painter/static/css/main.967a75b9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8de3a73.js",
+    "static/js/2.119331d9.chunk.js",
+    "static/css/main.967a75b9.chunk.css",
+    "static/js/main.bcb55828.chunk.js"
+  ]
+}
